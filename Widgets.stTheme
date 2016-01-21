@@ -10,13 +10,13 @@
 			<key>settings</key>
 			<dict>
                 <key>background</key>
-                <string>#042029</string>
+                <string>#202020</string>
                 <key>caret</key>
                 <string>#F8F8F0</string>
                 <key>foreground</key>
                 <string>#F8F8F260</string>
                 <key>gutterForeground</key>
-                <string>#3A4A50</string>
+                <string>#fA4A50</string>
                 <key>invisibles</key>
                 <string>#3B3A32</string>
                 <key>lineHighlight</key>

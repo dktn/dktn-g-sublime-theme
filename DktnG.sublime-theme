@@ -108,7 +108,7 @@
         "layer0.texture": "Theme - Default/normal_bar_vertical.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [0, 6],
-        "layer0.tint": [04, 32, 41],
+        "layer0.tint": [32, 32, 32],
         "blur": false
     },
     {
@@ -117,7 +117,7 @@
         "layer0.texture": "Theme - Default/normal_bar_horizontal.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [6, 0],
-        "layer0.tint": [04, 32, 41],
+        "layer0.tint": [32, 32, 32],
         "blur": false
     },
     {
@@ -298,7 +298,7 @@
     },
     {
         "class": "sidebar_container",
-        "layer0.tint": [04, 32, 41],
+        "layer0.tint": [32, 32, 32],
         "layer0.opacity": 1.0,
         "layer0.draw_center": false,
         "layer0.inner_margin": [0, 0, 1, 0],
@@ -312,7 +312,7 @@
         "indent": 4,
         "indent_offset": 10,
         "indent_top_level": false,
-        "layer0.tint": [4, 32, 41],
+        "layer0.tint": [32, 32, 32],
         "layer0.opacity": 1.0,
         "dark_content": false,
         "font.size": 9,
@@ -320,7 +320,7 @@
     },
     {
         "class": "sidebar_heading",
-        "color": [136, 144, 144],
+        "color": [152, 144, 144],
         "font.bold": false
     },
     {
@@ -333,7 +333,7 @@
     },
     {
         "class": "sidebar_label",
-        "color": [136, 144, 144],
+        "color": [176, 152, 152, 180],
         // "color": [58, 74, 80],
         "font.bold": false,
         "font.size": 10
@@ -350,7 +350,7 @@
     },
     {
         "class": "minimap_control",
-        "viewport_color": [04, 20, 29, 150]
+        "viewport_color": [32, 32, 32, 180]
     },
     {
         "class": "text_line_control",
@@ -416,8 +416,8 @@
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [28, 177, 239, 255],
-        "selected_fg": [166, 229, 255, 255]
+        "fg": [177, 177, 177, 255],
+        "selected_fg": [229, 229, 229, 255]
     },
     {
         "class": "mini_quick_panel_row",
@@ -806,7 +806,7 @@
     {
         "class": "grid_layout_control",
         "border_size": 1,
-        "border_color": [06, 40, 50]
+        "border_color": [40, 40, 40]
     },
 
     {
